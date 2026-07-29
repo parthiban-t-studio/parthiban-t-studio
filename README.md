@@ -13,7 +13,9 @@
 - CSS
 - JavaScript
 - Python
-- Flutter
+- Java
+- C
+- C++
 - Firebase
 - Figma
 - Git
